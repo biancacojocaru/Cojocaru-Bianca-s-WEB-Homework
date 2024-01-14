@@ -1,0 +1,23 @@
+.note-card {
+    background-color: #f9f9f9;
+    border: 1px solid #e2e2e2;
+  }
+  
+  .note-input {
+    border: 1px dashed #d3d3d3;
+  }
+  
+  .title-input {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .note-text-input {
+    height: 150px; /* Larger area for note text */
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  /* ... rest of your styles ... */
+  
