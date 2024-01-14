@@ -1,0 +1,32 @@
+form {
+  width: 300px;
+  margin: 50px auto;
+  margin-top: 130px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: -20px;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+.error {
+  color: red;
+  margin-top: 5px;
+}
